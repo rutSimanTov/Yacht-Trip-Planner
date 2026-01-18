@@ -1,5 +1,5 @@
 
-# High Sea - Yacht Voyage Planner ⚓
+# High Sea - Yacht Voyage Planner ⛵
 
 **High Sea** is a comprehensive web application designed for planning and booking luxury yacht voyages worldwide. The platform allows users to manage their profile, customize their maritime itineraries, choose premium yachts, and select additional attractions for a perfect sea vacation.
 
